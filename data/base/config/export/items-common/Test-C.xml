@@ -1,0 +1,93 @@
+<ModOps>
+<!-- Item Definition GUID:1600000000 - 1600000001 | LineID:1600000000 - 1600000001 -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000000</GUID>
+            <Name>Specialist Test-C</Name>
+            <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+            <InfoDescription>1600000001</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>Radius</EffectScope> 
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>1600000001</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>82494</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Religion</Niche> 
+            <TradePrice>6000</TradePrice>
+            <BarkPool>83294</BarkPool> <!-- <GUID>83294</GUID> -->
+            <Rarity>Common</Rarity> 
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>1600000000</OasisId>
+          </Text>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000001</GUID>
+                    <Name>Specialist Test-C BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/Russ_Question.jpeg</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000000</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade>
+                </BuildingUpgrade>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade/>
+                <FactoryUpgrade>
+                  <ProductivityUpgrade>
+                    <Value>10</Value>
+                    <Percental>1</Percental>
+                  </ProductivityUpgrade>
+                  <NeededAreaUpgrade>
+                    <Value>0</Value>
+                    <Percental>1</Percental>
+                  </NeededAreaUpgrade>
+                </FactoryUpgrade>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    
+  </Group>
+
+</ModOps>

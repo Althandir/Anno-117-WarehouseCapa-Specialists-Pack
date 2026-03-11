@@ -1,0 +1,13 @@
+<ModOps>
+    
+<!-- Add to AssetList -->
+<Group>
+    <ModOp Type="add" GUID="113059" Path="/Values/AssetPool/AssetList">
+    <Item>
+        <ItemLink>1600000000</ItemLink>
+    </Item>
+
+    </ModOp>
+</Group>
+
+</ModOps>

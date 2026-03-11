@@ -1,0 +1,59 @@
+<!-- 
+# By Althandir / Altdolphin (Discord: althandir)
+# NOTE: 
+# GUIDs might be all over the place (not outside of my Range but inside this mod) due to my experiments all the time
+# or my stupid brain getting new Ideas all the time and never finishing something >~<
+
+###  
+#   GUID-Ranges:  
+#   1600000xxx - 1600000xxx 
+#
+#
+#
+#
+#
+#
+#
+###
+-->
+<ModOps>
+
+<!-- Testing -->
+<Group>
+<!--
+<Include File="testing/pools-forceSpawnTesting.xml"/> 
+-->
+</Group>
+
+<!-- Common Specialists -->
+<Group>
+    <Include File="items-common/Test-C.xml" />
+</Group>
+
+<!-- Rare Specialists -->
+<Group>
+
+</Group>
+
+<!-- Epic Specialists -->
+<Group>
+
+</Group>
+
+<!-- Legendary Specialists -->
+<Group>
+
+</Group>
+
+<!-- Add to Pools -->
+<Include File="pools/AssetList/AssetListPool.xml" />
+<Include File="pools/RewardPool/RewardPool-AllItems&Specialists.xml" />
+
+<!-- Add to Traderpools --> 
+<Include File="pools/Traders/pools-common.xml" />
+<Include File="pools/Traders/pools-rare.xml" />
+<Include File="pools/Traders/pools-epic.xml" />
+<Include File="pools/Traders/pools-legendary.xml" />
+
+
+</ModOps>

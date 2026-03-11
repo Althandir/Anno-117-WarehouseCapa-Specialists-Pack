@@ -1,0 +1,63 @@
+{
+  "ModID": "althandir-altdolphin-template-pack",
+  "Version": "1.0.0",
+  "Anno": 8,
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "LoadAfterIds": [  
+    
+  ],
+  "Difficulty": "easier",
+  "DLCDependencies": null,
+  "GameSetup": {
+    "RequiresNewGame": false,
+    "SafeToRemove": true,
+    "Multiplayer": true,
+    "Campaign": true
+  },
+
+  "ModName": {
+    "English": "Template Pack by Althandir / Altdolphin",
+    "German": "Beispiel Pack von Althandir / Altdolphin",
+    "French": "[EN] Template Pack by Althandir / Altdolphin",
+    "Italian": "[EN] Template Pack by Althandir / Altdolphin",
+    "Polish": "[EN] Template Pack by Althandir / Altdolphin",
+    "Spanish": "[EN] Template Pack by Althandir / Altdolphin",
+    "Chinese": "[EN] Template Pack by Althandir / Altdolphin",
+    "Japanese": "[EN] Template Pack by Althandir / Altdolphin",
+    "Korean": "[EN] Template Pack by Althandir / Altdolphin",
+    "Taiwanese": "[EN] Template Pack by Althandir / Altdolphin",
+    "Russian": "[EN] Template Pack by Althandir / Altdolphin"
+  },
+  "Description": {
+    "English": "Adds new different Specialists focused on Shrines to Anno 117.",
+    "German": "Fügt neue verschiedene Spezialisten mit Fokus auf Schreine zu Anno 117 hinzu.",
+    "French": "[EN] Adds new different Specialists focused on Shrines to Anno 117.",
+    "Italian": "[EN] Adds new different Specialists focused on Shrines to Anno 117.",
+    "Polish": "[EN] Adds new different Specialists focused on Shrines to Anno 117.",
+    "Spanish": "[EN] Adds new different Specialists focused on Shrines to Anno 117.",
+    "Chinese": "[EN] Adds new different Specialists focused on Shrines to Anno 117.",
+    "Japanese": "[EN] Adds new different Specialists focused on Shrines to Anno 117.",
+    "Korean": "[EN] Adds new different Specialists focused on Shrines to Anno 117.",
+    "Taiwanese": "[EN] Adds new different Specialists focused on Shrines to Anno 117.",
+    "Russian": "[EN] Adds new different Specialists focused on Shrines to Anno 117."
+  },
+  "Category": {
+    "English": "Gameplay",
+    "German": "Gameplay",
+    "French": "Gameplay",
+    "Italian": "Gameplay",
+    "Polish": "Gameplay",
+    "Spanish": "Gameplay",
+    "Chinese": "Gameplay",
+    "Japanese": "Gameplay",
+    "Korean": "Gameplay",
+    "Taiwanese": "Gameplay",
+    "Russian": "Gameplay"
+  },
+
+  "CreatorName": "Althandir / Altdolphin",
+  "CreatorContact": "althandir via Anno-Modding-Discord",
+  "Image": "ModListingImg.png"
+
+}
