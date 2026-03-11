@@ -18,13 +18,6 @@
 -->
 <ModOps>
 
-<!-- Testing -->
-<Group>
-<!--
-<Include File="testing/pools-forceSpawnTesting.xml"/> 
--->
-</Group>
-
 <!-- Common Specialists -->
 <Group>
     <Include File="items-common/WarehouseCapacityUpgrade-C.xml" />
