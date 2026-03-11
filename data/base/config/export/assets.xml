@@ -6,8 +6,8 @@
 
 ###  
 #   GUID-Ranges:  
-#   1600000xxx - 1600000xxx 
-#
+#   1600000033 - 1600000034 (Warehouse - Common)
+#   1600000212 - 1600000213 (Warehouse - Rare)
 #
 #
 #
@@ -27,12 +27,12 @@
 
 <!-- Common Specialists -->
 <Group>
-    <Include File="items-common/Test-C.xml" />
+    <Include File="items-common/WarehouseCapacityUpgrade-C.xml" />
 </Group>
 
 <!-- Rare Specialists -->
 <Group>
-
+    <Include File="items-rare/WarehouseCapacityUpgrade-R.xml" />
 </Group>
 
 <!-- Epic Specialists -->

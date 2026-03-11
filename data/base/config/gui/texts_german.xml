@@ -1,33 +1,33 @@
 <ModOps>
 
-  <!-- Specialist Test-C -->
+  <!-- Specialist WarehouseCapacityUpgrade-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist Test-C</Text>
-          <LineId>1600000000</LineId> <!-- <GUID>1600000000</GUID> -->
+          <Text>Lagerarbeiter</Text>
+          <LineId>1600000033</LineId> <!-- <GUID>1600000033</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000001</LineId> 
+          <Text>Nutzt ein paar zusätzliche Hände, um die Waren hier und da zu organisieren.</Text>
+          <LineId>1600000034</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist Test-C -->
+  <!-- Specialist WarehouseCapacityUpgrade-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Specialist AreaEffect-Test-C</Text>
-          <LineId>1600000002</LineId> <!-- <GUID>1600000002</GUID> -->
+          <Text>Erfahrener Lagerarbeiter</Text>
+          <LineId>1600000212</LineId> <!-- <GUID>1600000212</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Test Text. Meb Meb!</Text>
-          <LineId>1600000003</LineId> 
+          <Text>Ein lebender Katalog für das Warenlager.</Text>
+          <LineId>1600000213</LineId> 
       </Text>
     </ModOp>
   </Group>
