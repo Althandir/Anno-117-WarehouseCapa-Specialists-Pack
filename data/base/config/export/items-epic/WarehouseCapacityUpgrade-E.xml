@@ -1,22 +1,22 @@
 <ModOps>
-<!-- Item Definition GUID:1600000033 - 1600000034 | LineID:1600000033 - 1600000034 -->
+<!-- Item Definition GUID:1600000495 - 1600000496 | LineID:1600000495 - 1600000496 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000033</GUID>
-            <Name>Specialist WarehouseCapacity-C</Name>
-            <IconFilename>data/base/graphics/icons/celtic_male_warehouseCapaC.png</IconFilename>
-            <InfoDescription>1600000034</InfoDescription>
+            <GUID>1600000495</GUID>
+            <Name>Specialist WarehouseCapacity-E</Name>
+            <IconFilename>data/base/graphics/icons/c_female_WarehouseCapaE.png</IconFilename>
+            <InfoDescription>1600000496</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000034</GUID>
+                <GUID>1600000496</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
@@ -34,15 +34,15 @@
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>7500</TradePrice>
-            <BarkPool>80248</BarkPool> <!-- <GUID>80248</GUID> -->
-            <Rarity>Common</Rarity> 
+            <TradePrice>70000</TradePrice>
+            <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
+            <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000033</OasisId>
+            <OasisId>1600000495</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -57,12 +57,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000034</GUID>
-                    <Name>Specialist WarehouseCapacity-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/celtic_male_warehouseCapaC.png</IconFilename>
+                    <GUID>1600000496</GUID>
+                    <Name>Specialist WarehouseCapacity-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/c_female_WarehouseCapaE.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000033</OasisId>
+                    <OasisId>1600000495</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -76,11 +76,11 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>25</Value>
+                    <Value>-33</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>25</Value>
+                    <Value>-33</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
