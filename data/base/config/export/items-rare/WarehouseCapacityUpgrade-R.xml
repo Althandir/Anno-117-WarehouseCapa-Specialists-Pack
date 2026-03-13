@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000212</GUID>
-            <Name>Specialist WarehouseCapacity R</Name>
+            <Name>Specialist WarehouseCapacity-R</Name>
             <IconFilename>data/base/graphics/icons/roman_male_WarehouseCapaR.png</IconFilename>
             <InfoDescription>1600000213</InfoDescription>
           </Standard>
@@ -58,7 +58,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000213</GUID>
-                    <Name>Specialist WarehouseCapacity R BuildingBuff</Name>
+                    <Name>Specialist WarehouseCapacity-R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/roman_male_WarehouseCapaR.png</IconFilename>
                 </Standard>
                 <Text>
@@ -76,11 +76,11 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>25</Value>
+                    <Value>0</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>25</Value>
+                    <Value>0</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -89,7 +89,7 @@
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
                 <WarehouseUpgrade>
-                  <StorageCapacityModifier>30</StorageCapacityModifier>
+                  <StorageCapacityModifier>15</StorageCapacityModifier>
                 </WarehouseUpgrade>
                 <IrrigationUpgrade/>
             </Values>

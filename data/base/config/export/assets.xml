@@ -8,12 +8,8 @@
 #   GUID-Ranges:  
 #   1600000033 - 1600000034 (Warehouse - Common)
 #   1600000212 - 1600000213 (Warehouse - Rare)
-#
-#
-#
-#
-#
-#
+#   1600000495 - 1600000496 (Warehouse - Epic)
+#   1600000497 - 1600000499 (Warehouse - Legendary)
 ###
 -->
 <ModOps>
@@ -30,12 +26,12 @@
 
 <!-- Epic Specialists -->
 <Group>
-
+    <Include File="items-rare/WarehouseCapacityUpgrade-E.xml" />
 </Group>
 
 <!-- Legendary Specialists -->
 <Group>
-
+    <Include File="items-rare/WarehouseCapacityUpgrade-L.xml" />
 </Group>
 
 <!-- Add to Pools -->
