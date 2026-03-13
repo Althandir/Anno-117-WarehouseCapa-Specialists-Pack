@@ -26,12 +26,12 @@
 
 <!-- Epic Specialists -->
 <Group>
-    <Include File="items-rare/WarehouseCapacityUpgrade-E.xml" />
+    <Include File="items-epic/WarehouseCapacityUpgrade-E.xml" />
 </Group>
 
 <!-- Legendary Specialists -->
 <Group>
-    <Include File="items-rare/WarehouseCapacityUpgrade-L.xml" />
+    <Include File="items-legendary/WarehouseCapacityUpgrade-L.xml" />
 </Group>
 
 <!-- Add to Pools -->

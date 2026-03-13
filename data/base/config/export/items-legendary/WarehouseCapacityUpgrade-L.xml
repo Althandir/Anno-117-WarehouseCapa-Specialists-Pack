@@ -36,7 +36,7 @@
             <Niche>Economy</Niche> 
             <TradePrice>500000</TradePrice>
             <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
-            <Rarity>Rare</Rarity> 
+            <Rarity>Legendary</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
