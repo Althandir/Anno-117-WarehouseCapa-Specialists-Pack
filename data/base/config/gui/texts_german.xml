@@ -37,12 +37,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Roudiccia Brigic, Aggressive Organisatorin</Text>
           <LineId>1600000495</LineId> <!-- <GUID>1600000495</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Sie wird bei der kleinsten Unordnung ziemlich aggressiv. Niemand hat Sie bisher nicht erzürnt erlebt.</Text>
           <LineId>1600000496</LineId> 
       </Text>
     </ModOp>
@@ -53,17 +53,17 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Custennin Commaros, Schlafendes Logistikgenie</Text>
           <LineId>1600000497</LineId> <!-- <GUID>1600000497</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Custennin ist ein wahres Genie, was unsere Lager angeht. Im Schlaf findet er jede Ware. Leider schäft er auch in echt zu gerne... Das erklärt diese römische Liege an seiner Seite!</Text>
           <LineId>1600000498</LineId> 
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>[PH] 12x Warehouses on Island PlaceholderText</Text>
+          <Text>Wird erst ab einer gewissen Anzahl an Lagerhäusern so richtig wach. (12 Lagerhäuser auf der Insel)</Text>
           <LineId>1600000499</LineId> 
       </Text>
     </ModOp>

@@ -5,12 +5,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Ouvrier d’entrepôt</Text>
+          <Text>Warehouse Worker</Text>
           <LineId>1600000033</LineId> <!-- <GUID>1600000033</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Utilise quelques mains supplémentaires pour organiser les marchandises ici et là.</Text>
+          <Text>Uses some extra hands to organize the goods here and there.</Text>
           <LineId>1600000034</LineId> 
       </Text>
     </ModOp>
@@ -21,28 +21,28 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Magasinier expérimenté</Text>
+          <Text>Expericened Warehouse Worker</Text>
           <LineId>1600000212</LineId> <!-- <GUID>1600000212</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Un catalogue vivant pour les entrepôts.</Text>
+          <Text>A living catalog for the warehouses.</Text>
           <LineId>1600000213</LineId> 
       </Text>
     </ModOp>
   </Group>
-
+  
   <!-- Specialist WarehouseCapacityUpgrade-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Roudiccia Brigic, Aggressive Organizer</Text>
           <LineId>1600000495</LineId> <!-- <GUID>1600000495</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>She gets quite aggressive at the slightest disturbance. No one has ever seen her calm.</Text>
           <LineId>1600000496</LineId> 
       </Text>
     </ModOp>
@@ -53,20 +53,19 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Custennin Commaros, Sleeping Logistics Genius</Text>
           <LineId>1600000497</LineId> <!-- <GUID>1600000497</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>He’s a real genius when it comes to our warehouses. He can find any item in his sleep. Unfortunately, he also loves to sleep way too much in real life... That explains the Roman-style lounger by his side!</Text>
           <LineId>1600000498</LineId> 
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>[PH] 12x Warehouses on Island PlaceholderText</Text>
+          <Text>He really comes into its element once there are a certain number of warehouses. (12 warehouses on the island)</Text>
           <LineId>1600000499</LineId> 
       </Text>
     </ModOp>
   </Group>
-
 </ModOps>

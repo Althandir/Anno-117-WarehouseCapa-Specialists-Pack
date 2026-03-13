@@ -37,12 +37,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Roudiccia Brigic, Aggressive Organizer</Text>
           <LineId>1600000495</LineId> <!-- <GUID>1600000495</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>She gets quite aggressive at the slightest disturbance. No one has ever seen her calm.</Text>
           <LineId>1600000496</LineId> 
       </Text>
     </ModOp>
@@ -53,17 +53,17 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>Custennin Commaros, Sleeping Logistics Genius</Text>
           <LineId>1600000497</LineId> <!-- <GUID>1600000497</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>He’s a real genius when it comes to our warehouses. He can find any item in his sleep. Unfortunately, he also loves to sleep way too much in real life... That explains the Roman-style lounger by his side!</Text>
           <LineId>1600000498</LineId> 
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>[PH] 12x Warehouses on Island PlaceholderText</Text>
+          <Text>He really comes into its element once there are a certain number of warehouses. (12 warehouses on the island)</Text>
           <LineId>1600000499</LineId> 
       </Text>
     </ModOp>

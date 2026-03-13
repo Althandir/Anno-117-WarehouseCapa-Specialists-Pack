@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000497</GUID>
             <Name>Specialist WarehouseCapacity-L</Name>
-            <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+            <IconFilename>data/base/graphics/icons/c_male_WarehouseCapaL.png</IconFilename>
             <InfoDescription>1600000498</InfoDescription>
           </Standard>
           <Effect>
@@ -105,7 +105,7 @@
                 <Standard>
                     <GUID>1600000498</GUID>
                     <Name>Specialist WarehouseCapacity-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/c_male_WarehouseCapaL.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000497</OasisId>
@@ -122,11 +122,11 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>-25</Value>
+                    <Value>-20</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-25</Value>
+                    <Value>-20</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -150,7 +150,7 @@
                 <Standard>
                     <GUID>1600000499</GUID>
                     <Name>Specialist WarehouseCapacity-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <IconFilename>data/base/graphics/icons/c_male_WarehouseCapaL.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000497</OasisId>
