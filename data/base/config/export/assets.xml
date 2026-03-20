@@ -36,7 +36,12 @@
 
 <!-- Add to Pools -->
 <Include File="pools/AssetList/AssetListPool.xml" />
-<Include File="pools/RewardPool/RewardPool-AllItems&Specialists.xml" />
+<Include File="pools/RewardPool/AllItems&Specialists.xml" />
+
+<Include File="pools/RewardPool/Economy-C.xml" />
+<Include File="pools/RewardPool/Economy-R.xml" />
+<Include File="pools/RewardPool/Economy-E.xml" />
+<Include File="pools/RewardPool/Economy-L.xml" />
 
 <!-- Add to Traderpools --> 
 <Include File="pools/Traders/pools-common.xml" />
