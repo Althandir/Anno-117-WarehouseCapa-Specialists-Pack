@@ -90,7 +90,7 @@
                 <AqueductUpgrade/>
                 <WarehouseUpgrade>
                   <StorageCapacityModifier>25</StorageCapacityModifier>
-                  <AdditionalLoadingSpeedInPercent>10</AdditionalLoadingSpeedInPercent>
+                  <AdditionalLoadingSpeedInPercent>25</AdditionalLoadingSpeedInPercent>
                 </WarehouseUpgrade>
                 <IrrigationUpgrade/>
             </Values>
