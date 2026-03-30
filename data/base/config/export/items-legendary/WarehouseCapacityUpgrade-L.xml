@@ -12,7 +12,7 @@
             <InfoDescription>1600000498</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>ObjectsInArea</EffectScope> 
+            <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -122,11 +122,11 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>-20</Value>
+                    <Value>-50</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-20</Value>
+                    <Value>-50</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -135,7 +135,8 @@
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
                 <WarehouseUpgrade>
-                  <StorageCapacityModifier>15</StorageCapacityModifier>
+                  <StorageCapacityModifier>25</StorageCapacityModifier>
+                  <AdditionalLoadingSpeedInPercent>20</AdditionalLoadingSpeedInPercent>
                 </WarehouseUpgrade>
                 <IrrigationUpgrade/>
             </Values>
@@ -180,7 +181,8 @@
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
                 <WarehouseUpgrade>
-                  <StorageCapacityModifier>15</StorageCapacityModifier>
+                  <StorageCapacityModifier>25</StorageCapacityModifier>
+                  <AdditionalLoadingSpeedInPercent>50</AdditionalLoadingSpeedInPercent>
                 </WarehouseUpgrade>
                 <IrrigationUpgrade/>
             </Values>
