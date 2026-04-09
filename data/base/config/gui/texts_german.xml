@@ -10,7 +10,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Nutzt ein paar zusätzliche Hände, um die Waren hier und da zu organisieren.</Text>
+          <Text>Nutzt ein paar zusätzliche Hände, um die Waren hier und da zu organisieren.&#xD;(WarehouseCapa-Pack)</Text>
           <LineId>1600000034</LineId> 
       </Text>
     </ModOp>
@@ -26,7 +26,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Ein lebender Katalog für das Warenlager.</Text>
+          <Text>Ein lebender Katalog für das Warenlager.&#xD;(WarehouseCapa-Pack)</Text>
           <LineId>1600000213</LineId> 
       </Text>
     </ModOp>
@@ -42,7 +42,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Sie wird bei der kleinsten Unordnung ziemlich aggressiv. Niemand hat Sie bisher nicht erzürnt erlebt.</Text>
+          <Text>Sie wird bei der kleinsten Unordnung ziemlich aggressiv. Niemand hat Sie bisher nicht erzürnt erlebt.&#xD;(WarehouseCapa-Pack)</Text>
           <LineId>1600000496</LineId> 
       </Text>
     </ModOp>
@@ -58,7 +58,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Custennin ist ein wahres Genie, was unsere Lager angeht. Im Schlaf findet er jede Ware. Leider schäft er auch in echt zu gerne... Das erklärt diese römische Liege an seiner Seite!</Text>
+          <Text>Custennin ist ein wahres Genie, was unsere Lager angeht. Im Schlaf findet er jede Ware. Leider schäft er auch in echt zu gerne... Das erklärt diese römische Liege an seiner Seite!&#xD;(WarehouseCapa-Pack)</Text>
           <LineId>1600000498</LineId> 
       </Text>
       <!-- Boosted Hint -->
