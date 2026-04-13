@@ -8,7 +8,12 @@
     
   ],
   "Difficulty": "easier",
-  "DLCDependencies": null,
+  "Dependencies": {
+    "Require": [],
+    "Optional": [],
+    "LoadAfter": [],
+    "Deprecate": []
+  },
   "GameSetup": {
     "RequiresNewGame": false,
     "SafeToRemove": true,
@@ -43,17 +48,17 @@
     "Russian": "[EN] Adds new different Specialists focused on Warehouse Capacity to Anno 117."
   },
   "Category": {
-    "English": "Gameplay",
-    "German": "Gameplay",
-    "French": "Gameplay",
-    "Italian": "Gameplay",
-    "Polish": "Gameplay",
-    "Spanish": "Gameplay",
-    "Chinese": "Gameplay",
-    "Japanese": "Gameplay",
-    "Korean": "Gameplay",
-    "Taiwanese": "Gameplay",
-    "Russian": "Gameplay"
+    "English": "Content",
+    "German": "Content",
+    "French": "Content",
+    "Italian": "Content",
+    "Polish": "Content",
+    "Spanish": "Content",
+    "Chinese": "Content",
+    "Japanese": "Content",
+    "Korean": "Content",
+    "Taiwanese": "Content",
+    "Russian": "Content"
   },
 
   "CreatorName": "Althandir / Altdolphin",
