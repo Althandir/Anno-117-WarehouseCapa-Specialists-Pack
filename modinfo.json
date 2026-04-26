@@ -63,6 +63,26 @@
 
   "CreatorName": "Althandir / Altdolphin",
   "CreatorContact": "althandir via Anno-Modding-Discord",
-  "Image": "ModListingImg.png"
+  "Image": "ModListingImg.png",
+
+  "Options": 
+  {
+    "TradePrice_Common":
+    {
+      "default": "2000"
+    },
+    "TradePrice_Rare":
+    {
+      "default": "12000"
+    },
+    "TradePrice_Epic":
+    {
+      "default": "65000"
+    },
+    "TradePrice_Legendary":
+    {
+      "default": "400000"
+    }
+  }
 
 }
