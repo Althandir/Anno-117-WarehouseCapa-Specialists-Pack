@@ -76,11 +76,11 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>25</Value>
+                    <Value>0</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>25</Value>
+                    <Value>0</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
@@ -89,7 +89,7 @@
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
                 <WarehouseUpgrade>
-                  <StorageCapacityModifier>25</StorageCapacityModifier>
+                  <StorageCapacityModifier>20</StorageCapacityModifier>
                 </WarehouseUpgrade>
                 <IrrigationUpgrade/>
             </Values>
