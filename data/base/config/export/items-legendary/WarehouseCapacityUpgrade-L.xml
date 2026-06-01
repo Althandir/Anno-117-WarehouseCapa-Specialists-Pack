@@ -136,7 +136,7 @@
                 <AqueductUpgrade/>
                 <WarehouseUpgrade>
                   <StorageCapacityModifier>35</StorageCapacityModifier>
-                  <AdditionalLoadingSpeedInPercent>25</AdditionalLoadingSpeedInPercent>
+                  <AdditionalLoadingSpeedInPercent>50</AdditionalLoadingSpeedInPercent>
                 </WarehouseUpgrade>
                 <IrrigationUpgrade/>
             </Values>
@@ -168,11 +168,11 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>-75</Value>
+                    <Value>-90</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-75</Value>
+                    <Value>-90</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
