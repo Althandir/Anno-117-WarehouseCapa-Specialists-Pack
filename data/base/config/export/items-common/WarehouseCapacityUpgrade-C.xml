@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000033</GUID>
             <Name>Specialist WarehouseCapacity-C</Name>
-            <IconFilename>data/base/graphics/icons/celtic_male_warehouseCapaC.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/c_m_WHCapa-C.png</IconFilename>
             <InfoDescription>1600000034</InfoDescription>
           </Standard>
           <Effect>
@@ -59,7 +59,7 @@
                 <Standard>
                     <GUID>1600000034</GUID>
                     <Name>Specialist WarehouseCapacity-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/celtic_male_warehouseCapaC.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/c_m_WHCapa-C.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000033</OasisId>
