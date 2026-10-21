@@ -64,16 +64,9 @@
                 <Text>
                     <OasisId>1600000033</OasisId>
                 </Text>
-                <HealthUpgrade/>
-                <BuildingUpgrade>
-                </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
                     <Value>0</Value>
@@ -84,14 +77,9 @@
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
                 <WarehouseUpgrade>
-                  <StorageCapacityModifier>20</StorageCapacityModifier>
+                  <StorageCapacityModifier>15</StorageCapacityModifier>
                 </WarehouseUpgrade>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>

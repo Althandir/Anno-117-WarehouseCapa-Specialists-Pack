@@ -110,16 +110,9 @@
                 <Text>
                     <OasisId>1600000497</OasisId>
                 </Text>
-                <HealthUpgrade/>
-                <BuildingUpgrade>
-                </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
                     <Value>-35</Value>
@@ -130,15 +123,10 @@
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
                 <WarehouseUpgrade>
-                  <StorageCapacityModifier>25</StorageCapacityModifier>
-                  <AdditionalLoadingSpeedInPercent>100</AdditionalLoadingSpeedInPercent>
+                  <StorageCapacityModifier>50</StorageCapacityModifier>
+                  <AdditionalLoadingSpeedInPercent>0</AdditionalLoadingSpeedInPercent>
                 </WarehouseUpgrade>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>
@@ -156,35 +144,24 @@
                 <Text>
                     <OasisId>1600000497</OasisId>
                 </Text>
-                <HealthUpgrade/>
-                <BuildingUpgrade>
-                </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
-                <FactoryUpgrade/>
-                <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>-50</Value>
+                    <Value>-35</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-50</Value>
+                    <Value>-35</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
                 <WarehouseUpgrade>
-                  <StorageCapacityModifier>25</StorageCapacityModifier>
-                  <AdditionalLoadingSpeedInPercent>200</AdditionalLoadingSpeedInPercent>
+                  <StorageCapacityModifier>50</StorageCapacityModifier>
+                  <AdditionalLoadingSpeedInPercent>100</AdditionalLoadingSpeedInPercent>
                 </WarehouseUpgrade>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>
