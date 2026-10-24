@@ -58,12 +58,12 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Custennin ist ein wahres Genie, was unsere Lager angeht. Im Schlaf findet er jede Ware. Leider schäft er auch in echt zu gerne... Das erklärt diese römische Liege an seiner Seite!&#xD;(WarehouseCapa-Pack)</Text>
+          <Text>Custennin ist ein wahres Genie, was unsere Lager angeht, denn Schlaf findet er jede Ware. Leider schäft er auch in echt zu gerne...&#xD;(WarehouseCapa-Pack)</Text>
           <LineId>1600000498</LineId> 
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>Wird erst ab einer gewissen Anzahl an Lagerhäusern so richtig wach. (12 Lagerhäuser auf der Insel)</Text>
+          <Text>"Mein Schlaf dient zur Katalogisierung." (100 Liegen im Insellager)</Text>
           <LineId>1600000499</LineId> 
       </Text>
     </ModOp>
