@@ -58,12 +58,12 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>He’s a real genius when it comes to our warehouses. He can find any item in his sleep. Unfortunately, he also loves to sleep way too much in real life... That explains the Roman-style lounger by his side!&#xD;(WarehouseCapa-Pack)</Text>
+          <Text>He’s a real genius when it comes to our warehouses, because he can find any item in his sleep. Unfortunately, he also loves to sleep way too much in real life...&#xD;(WarehouseCapa-Pack)</Text>
           <LineId>1600000498</LineId> 
       </Text>
       <!-- Boosted Hint -->
       <Text>
-          <Text>He really comes into its element once there are a certain number of warehouses. (12 warehouses on the island)</Text>
+          <Text>"My Sleep is required for cataloguing." (100x Loungers in Island storage)</Text>
           <LineId>1600000499</LineId> 
       </Text>
     </ModOp>
