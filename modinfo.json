@@ -1,6 +1,6 @@
 {
-  "ModID": "althandir-altdolphin-specialists-warehousecapacity-pack",
-  "Version": "1.0.2",
+  "ModID": "althandir-altdolphin-specialists-warehouse-pack",
+  "Version": "1.0.3",
   "Anno": 8,
   "IncompatibleIds": null,
   "ModDependencies": null,
@@ -12,7 +12,7 @@
     "Require": [],
     "Optional": [],
     "LoadAfter": [],
-    "Deprecate": []
+    "Deprecate": ["althandir-altdolphin-specialists-warehousecapacity-pack"]
   },
   "GameSetup": {
     "RequiresNewGame": false,
@@ -22,30 +22,30 @@
   },
 
   "ModName": {
-    "English": "WarehouseCapacity Specialists Pack by Althandir / Altdolphin",
-    "German": "Warenhauskapazität Spezialisten Pack von Althandir / Altdolphin",
-    "French": "WarehouseCapacity Specialists Pack by Althandir / Altdolphin",
-    "Italian": "WarehouseCapacity Specialists Pack by Althandir / Altdolphin",
-    "Polish": "WarehouseCapacity Specialists Pack by Althandir / Altdolphin",
-    "Spanish": "WarehouseCapacity Specialists Pack by Althandir / Altdolphin",
-    "Chinese": "WarehouseCapacity Specialists Pack by Althandir / Altdolphin",
-    "Japanese": "WarehouseCapacity Specialists Pack by Althandir / Altdolphin",
-    "Korean": "WarehouseCapacity Specialists Pack by Althandir / Altdolphin",
-    "Taiwanese": "WarehouseCapacity Specialists Pack by Althandir / Altdolphin",
-    "Russian": "WarehouseCapacity Specialists Pack by Althandir / Altdolphin"
+    "English": "Warehouse Specialists Pack by Althandir / Altdolphin",
+    "German": "Warenhaus Spezialisten Pack von Althandir / Altdolphin",
+    "French": "Warehouse Specialists Pack by Althandir / Altdolphin",
+    "Italian": "Warehouse Specialists Pack by Althandir / Altdolphin",
+    "Polish": "Warehouse Specialists Pack by Althandir / Altdolphin",
+    "Spanish": "Warehouse Specialists Pack by Althandir / Altdolphin",
+    "Chinese": "Warehouse Specialists Pack by Althandir / Altdolphin",
+    "Japanese": "Warehouse Specialists Pack by Althandir / Altdolphin",
+    "Korean": "Warehouse Specialists Pack by Althandir / Altdolphin",
+    "Taiwanese": "Warehouse Specialists Pack by Althandir / Altdolphin",
+    "Russian": "Warehouse Specialists Pack by Althandir / Altdolphin"
   },
   "Description": {
-    "English": "Adds new different Specialists focused on Warehouse Capacity to Anno 117.",
-    "German": "Fügt neue verschiedene Spezialisten mit Fokus auf die Warenlagerkapazität zu Anno 117 hinzu.",
-    "French": "[EN] Adds new different Specialists focused on Warehouse Capacity to Anno 117.",
-    "Italian": "[EN] Adds new different Specialists focused on Warehouse Capacity to Anno 117.",
-    "Polish": "[EN] Adds new different Specialists focused on Warehouse Capacity to Anno 117.",
-    "Spanish": "[EN] Adds new different Specialists focused on Warehouse Capacity to Anno 117.",
-    "Chinese": "[EN] Adds new different Specialists focused on Warehouse Capacity to Anno 117.",
-    "Japanese": "[EN] Adds new different Specialists focused on Warehouse Capacity to Anno 117.",
-    "Korean": "[EN] Adds new different Specialists focused on Warehouse Capacity to Anno 117.",
-    "Taiwanese": "[EN] Adds new different Specialists focused on Warehouse Capacity to Anno 117.",
-    "Russian": "[EN] Adds new different Specialists focused on Warehouse Capacity to Anno 117."
+    "English": "Adds new different Specialists focused on the Warehouse to Anno 117.",
+    "German": "Fügt neue verschiedene Spezialisten mit Fokus auf das Warenlager zu Anno 117 hinzu.",
+    "French": "[EN] Adds new different Specialists focused on the Warehouse to Anno 117.",
+    "Italian": "[EN] Adds new different Specialists focused on the Warehouse to Anno 117.",
+    "Polish": "[EN] Adds new different Specialists focused on the Warehouse to Anno 117.",
+    "Spanish": "[EN] Adds new different Specialists focused on the Warehouse to Anno 117.",
+    "Chinese": "[EN] Adds new different Specialists focused on the Warehouse to Anno 117.",
+    "Japanese": "[EN] Adds new different Specialists focused on the Warehouse to Anno 117.",
+    "Korean": "[EN] Adds new different Specialists focused on the Warehouse to Anno 117.",
+    "Taiwanese": "[EN] Adds new different Specialists focused on the Warehouse to Anno 117.",
+    "Russian": "[EN] Adds new different Specialists focused on the Warehouse to Anno 117."
   },
   "Category": {
     "English": "Content",
