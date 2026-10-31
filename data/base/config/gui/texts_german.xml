@@ -1,6 +1,6 @@
 <ModOps>
 
-  <!-- Specialist WarehouseCapacityUpgrade-C -->
+  <!-- Specialist WH-Capa-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -10,13 +10,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Nutzt ein paar zusätzliche Hände, um die Waren hier und da zu organisieren.&#xD;(Altdolphin-WarehouseCapa-Pack)</Text>
+          <Text>Nutzt ein paar zusätzliche Hände, um die Waren hier und da zu organisieren.&#xD;(Altdolphin-Warehouse-Pack)</Text>
           <LineId>1600000034</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist WarehouseCapacityUpgrade-R -->
+  <!-- Specialist WH-Capa-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -26,13 +26,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Ein lebender Katalog für das Warenlager.&#xD;(Altdolphin-WarehouseCapa-Pack)</Text>
+          <Text>Ein lebender Katalog für das Warenlager.&#xD;(Altdolphin-Warehouse-Pack)</Text>
           <LineId>1600000213</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist WarehouseCapacityUpgrade-E -->
+  <!-- Specialist WH-Capa-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -42,13 +42,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Sie wird bei der kleinsten Unordnung ziemlich aggressiv. Niemand hat Sie bisher nicht erzürnt erlebt.&#xD;(Altdolphin-WarehouseCapa-Pack)</Text>
+          <Text>Sie wird bei der kleinsten Unordnung ziemlich aggressiv. Niemand hat Sie bisher nicht erzürnt erlebt.&#xD;(Altdolphin-Warehouse-Pack)</Text>
           <LineId>1600000496</LineId> 
       </Text>
     </ModOp>
   </Group>
   
-  <!-- Specialist WarehouseCapacityUpgrade-L -->
+  <!-- Specialist WH-Capa-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -58,7 +58,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Custennin ist ein wahres Genie, was unsere Lager angeht, denn Schlaf findet er jede Ware. Leider schäft er auch in echt zu gerne...&#xD;(Altdolphin-WarehouseCapa-Pack)</Text>
+          <Text>Custennin ist ein wahres Genie, was unsere Lager angeht, denn Schlaf findet er jede Ware. Leider schäft er auch in echt zu gerne...&#xD;(Altdolphin-Warehouse-Pack)</Text>
           <LineId>1600000498</LineId> 
       </Text>
       <!-- Boosted Hint -->

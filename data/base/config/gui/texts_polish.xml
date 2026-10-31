@@ -1,6 +1,6 @@
 <ModOps>
 
-  <!-- Specialist WarehouseCapacityUpgrade-C -->
+  <!-- Specialist WH-Capa-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -10,13 +10,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Uses some extra hands to organize the goods here and there.&#xD;(Altdolphin-WarehouseCapa-Pack)</Text>
+          <Text>Uses some extra hands to organize the goods here and there.&#xD;(Altdolphin-Warehouse-Pack)</Text>
           <LineId>1600000034</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist WarehouseCapacityUpgrade-R -->
+  <!-- Specialist WH-Capa-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -26,13 +26,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>A living catalog for the warehouses.&#xD;(Altdolphin-WarehouseCapa-Pack)</Text>
+          <Text>A living catalog for the warehouses.&#xD;(Altdolphin-Warehouse-Pack)</Text>
           <LineId>1600000213</LineId> 
       </Text>
     </ModOp>
   </Group>
   
-  <!-- Specialist WarehouseCapacityUpgrade-E -->
+  <!-- Specialist WH-Capa-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -42,13 +42,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>She gets quite aggressive at the slightest disturbance. No one has ever seen her calm.&#xD;(Altdolphin-WarehouseCapa-Pack)</Text>
+          <Text>She gets quite aggressive at the slightest disturbance. No one has ever seen her calm.&#xD;(Altdolphin-Warehouse-Pack)</Text>
           <LineId>1600000496</LineId> 
       </Text>
     </ModOp>
   </Group>
   
-  <!-- Specialist WarehouseCapacityUpgrade-L -->
+  <!-- Specialist WH-Capa-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -58,7 +58,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>He’s a real genius when it comes to our warehouses, because he can find any item in his sleep. Unfortunately, he also loves to sleep way too much in real life...&#xD;(Altdolphin-WarehouseCapa-Pack)</Text>
+          <Text>He’s a real genius when it comes to our warehouses, because he can find any item in his sleep. Unfortunately, he also loves to sleep way too much in real life...&#xD;(Altdolphin-Warehouse-Pack)</Text>
           <LineId>1600000498</LineId> 
       </Text>
       <!-- Boosted Hint -->

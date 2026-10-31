@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000497</GUID>
             <Name>Specialist WarehouseCapacity-L</Name>
-            <IconFilename>data/base/graphics/icons/WarehouseCapa-Pack/c_m_WHCapa-L.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Warehouse-Pack/WHCapa-L.png</IconFilename>
             <InfoDescription>1600000498</InfoDescription>
           </Standard>
           <Effect>
@@ -93,7 +93,7 @@
                 <Standard>
                     <GUID>1600000498</GUID>
                     <Name>Specialist WarehouseCapacity-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/WarehouseCapa-Pack/c_m_WHCapa-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Warehouse-Pack/WHCapa-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000497</OasisId>
@@ -127,7 +127,7 @@
                 <Standard>
                     <GUID>1600000499</GUID>
                     <Name>Specialist WarehouseCapacity-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/WarehouseCapa-Pack/c_m_WHCapa-L.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Warehouse-Pack/WHCapa-L.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000497</OasisId>
