@@ -6,32 +6,32 @@
 
 ###  
 #   GUID-Ranges:  
-#   1600000033 - 1600000034 (Warehouse - Common)
-#   1600000212 - 1600000213 (Warehouse - Rare)
-#   1600000495 - 1600000496 (Warehouse - Epic)
-#   1600000497 - 1600000499 (Warehouse - Legendary)
+#   1600000033 - 1600000034 (WH-Capa-C)
+#   1600000212 - 1600000213 (WH-Capa-R)
+#   1600000495 - 1600000496 (WH-Capa-E)
+#   1600000497 - 1600000499 (WH-Capa-L)
 ###
 -->
 <ModOps>
 
 <!-- Common Specialists -->
 <Group>
-    <Include File="items-common/WarehouseCapacityUpgrade-C.xml" />
+    <Include File="items-common/WH-Capa-C.xml" />
 </Group>
 
 <!-- Rare Specialists -->
 <Group>
-    <Include File="items-rare/WarehouseCapacityUpgrade-R.xml" />
+    <Include File="items-rare/WH-Capa-R.xml" />
 </Group>
 
 <!-- Epic Specialists -->
 <Group>
-    <Include File="items-epic/WarehouseCapacityUpgrade-E.xml" />
+    <Include File="items-epic/WH-Capa-E.xml" />
 </Group>
 
 <!-- Legendary Specialists -->
 <Group>
-    <Include File="items-legendary/WarehouseCapacityUpgrade-L.xml" />
+    <Include File="items-legendary/WH-Capa-L.xml" />
 </Group>
 
 <!-- Add to Pools -->
